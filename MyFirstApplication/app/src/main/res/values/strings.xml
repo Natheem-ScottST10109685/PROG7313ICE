@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">MyFirstApplication</string>
+    <string name="order_now">Order Now</string>
+    <string name="logo_desc">Your Company Logo</string>
+    <string name="you_ordered">You ordered:</string>
+    <string name="ordered_beverage">Beverage Ordered:</string>
+    <string name="full_name">Full Name:</string>
+    <string name="phone">Phone Number:</string>
+    <string name="order_button">Place Order</string>
+</resources>
+
